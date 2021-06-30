@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tech Challenge</string>
+    <string name="title_controls">Controls</string>
+    <string name="label_progress">Progress</string>
+    <string name="button_start">Start</string>
+    <string name="label_words">Words</string>
+</resources>
